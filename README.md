@@ -4,9 +4,9 @@
 <h3 align="center">A passionate software developer from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **Webserver written in c++**
+- 🔭 I’m currently working on **web-development project**
 
-- 🌱 I’m currently learning **data science, html, css, typescript**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **C, C++, Java, Android**
 
